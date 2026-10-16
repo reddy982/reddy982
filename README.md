@@ -5,6 +5,7 @@ Bachelor of Engineering in Computer Science
 🔗 LinkedIn | 💻 GitHub
 
 👨‍💻 About Me
+
 Passionate problem solver with a strong background in mathematics and programming (Python, Java, SQL). Proficient in data pre-processing, supervised learning, and model evaluation through hands-on projects. Expert in breaking down complicated problems, analyzing datasets, and implementing efficient, reproducible solutions. Fast learner and passionate about continuously improving and applying machine-learning techniques to real-world problems that matter.
 
 🎓 Education
